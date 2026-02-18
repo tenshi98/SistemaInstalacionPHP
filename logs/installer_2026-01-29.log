@@ -1,0 +1,137 @@
+[2026-01-29 16:46:13] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:46:28] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:46:40] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:46:45] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:47:09] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:49:44] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:49:48] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:49:52] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:50:00] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:50:04] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:50:06] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:50:09] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:50:13] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:51:35] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:51:53] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:52:52] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:53:32] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:54:15] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:54:39] [INFO] Acceso a página de credenciales
+[2026-01-29 16:54:56] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:55:41] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:55:56] [INFO] Acceso a página de credenciales
+[2026-01-29 16:57:36] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:57:40] [INFO] Acceso a página de bienvenida
+[2026-01-29 16:57:46] [INFO] Acceso a página de credenciales
+[2026-01-29 16:58:31] [ERROR] Error al conectar a MySQL: SQLSTATE[HY000] [1045] Access denied for user 'asd'@'172.18.0.5' (using password: YES) | Context: {"host":"database","username":"asd"}
+[2026-01-29 16:58:31] [ERROR] Error al validar credenciales MySQL | Context: {"host":"database","username":"asd","error":"SQLSTATE[HY000] [1045] Access denied for user 'asd'@'172.18.0.5' (using password: YES)"}
+[2026-01-29 16:58:31] [INFO] Acceso a página de credenciales
+[2026-01-29 16:58:45] [ERROR] Error al conectar a MySQL: SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.18.0.5' (using password: YES) | Context: {"host":"database","username":"root"}
+[2026-01-29 16:58:45] [ERROR] Error al validar credenciales MySQL | Context: {"host":"database","username":"root","error":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.18.0.5' (using password: YES)"}
+[2026-01-29 16:58:45] [INFO] Acceso a página de credenciales
+[2026-01-29 16:58:53] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 16:58:53] [INFO] Credenciales MySQL validadas exitosamente | Context: {"host":"database","username":"root"}
+[2026-01-29 16:58:53] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 16:58:53] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:00:39] [INFO] Acceso a página de bienvenida
+[2026-01-29 17:00:42] [INFO] Acceso a página de credenciales
+[2026-01-29 17:02:26] [INFO] Acceso a página de credenciales
+[2026-01-29 17:02:44] [ERROR] Error al conectar a MySQL: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution | Context: {"host":"localhostlocalhost","username":"root"}
+[2026-01-29 17:02:44] [ERROR] Error al validar credenciales MySQL | Context: {"host":"localhostlocalhost","username":"root","error":"SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution"}
+[2026-01-29 17:02:44] [INFO] Acceso a página de credenciales
+[2026-01-29 17:04:01] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:04:01] [INFO] Credenciales MySQL validadas exitosamente | Context: {"host":"database","username":"root"}
+[2026-01-29 17:04:01] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:04:01] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:04:01] [INFO] Credenciales validadas y guardadas en sesión | Context: {"host":"database","username":"root"}
+[2026-01-29 17:04:01] [INFO] Conexión a MySQL cerrada
+[2026-01-29 17:04:01] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:04:01] [INFO] Acceso a página de configuración de base de datos
+[2026-01-29 17:06:45] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:06:45] [INFO] Credenciales MySQL validadas exitosamente | Context: {"host":"database","username":"root"}
+[2026-01-29 17:06:45] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:06:45] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:06:45] [INFO] Credenciales validadas y guardadas en sesión | Context: {"host":"database","username":"root"}
+[2026-01-29 17:06:45] [INFO] Conexión a MySQL cerrada
+[2026-01-29 17:06:45] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:06:45] [INFO] Acceso a página de configuración de base de datos
+[2026-01-29 17:06:59] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:06:59] [INFO] Nombre de base de datos válido | Context: {"name":"testBD"}
+[2026-01-29 17:06:59] [INFO] Verificación de existencia de base de datos | Context: {"database":"testBD","exists":false}
+[2026-01-29 17:06:59] [INFO] La base de datos no existe, se puede crear | Context: {"name":"testBD"}
+[2026-01-29 17:06:59] [INFO] Nombre de base de datos validado | Context: {"name":"testBD"}
+[2026-01-29 17:06:59] [INFO] Archivo SQL de instalación válido | Context: {"path":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql"}
+[2026-01-29 17:06:59] [INFO] Acceso a página de resumen
+[2026-01-29 17:07:33] [INFO] Iniciando proceso de instalación
+[2026-01-29 17:07:33] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:07:33] [INFO] Base de datos creada exitosamente | Context: {"database":"testBD","charset":"utf8mb4","collation":"utf8mb4_unicode_ci"}
+[2026-01-29 17:07:33] [INFO] Archivo de configuración generado exitosamente | Context: {"path":"\/var\/www\/html\/instalador\/config\/database.php","size":870}
+[2026-01-29 17:07:33] [INFO] Conexión a MySQL cerrada
+[2026-01-29 17:07:33] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":"testBD"}
+[2026-01-29 17:07:33] [INFO] Iniciando ejecución de archivo SQL | Context: {"filepath":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql","queries_count":10}
+[2026-01-29 17:07:35] [ERROR] Error al ejecutar archivo SQL: There is no active transaction | Context: {"filepath":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql"}
+[2026-01-29 17:07:35] [ERROR] Error durante la instalación | Context: {"error":"There is no active transaction","trace":"#0 \/var\/www\/html\/instalador\/core\/MySQLDatabase.php(206): PDO->commit()\n#1 \/var\/www\/html\/instalador\/pages\/finish.php(84): MySQLDatabase->executeFile('\/var\/www\/html\/i...')\n#2 \/var\/www\/html\/instalador\/index.php(43): include('\/var\/www\/html\/i...')\n#3 {main}"}
+[2026-01-29 17:28:32] [INFO] Acceso a página de bienvenida
+[2026-01-29 17:28:39] [INFO] Acceso a página de credenciales
+[2026-01-29 17:29:33] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:29:33] [INFO] Credenciales MySQL validadas exitosamente | Context: {"host":"database","username":"root"}
+[2026-01-29 17:29:33] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:29:33] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:29:33] [INFO] Credenciales validadas y guardadas en sesión | Context: {"host":"database","username":"root"}
+[2026-01-29 17:29:33] [INFO] Conexión a MySQL cerrada
+[2026-01-29 17:29:33] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:29:33] [INFO] Acceso a página de configuración de base de datos
+[2026-01-29 17:30:02] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:30:02] [INFO] Nombre de base de datos válido | Context: {"name":"testbd2"}
+[2026-01-29 17:30:02] [INFO] Verificación de existencia de base de datos | Context: {"database":"testbd2","exists":false}
+[2026-01-29 17:30:02] [INFO] La base de datos no existe, se puede crear | Context: {"name":"testbd2"}
+[2026-01-29 17:30:02] [INFO] Nombre de base de datos validado | Context: {"name":"testbd2"}
+[2026-01-29 17:30:02] [INFO] Archivo SQL de instalación válido | Context: {"path":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql"}
+[2026-01-29 17:30:02] [INFO] Acceso a página de resumen
+[2026-01-29 17:33:30] [INFO] Archivo SQL de instalación válido | Context: {"path":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql"}
+[2026-01-29 17:33:30] [INFO] Acceso a página de resumen
+[2026-01-29 17:33:52] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:33:52] [INFO] Acceso a página de configuración de base de datos
+[2026-01-29 17:34:00] [INFO] Acceso a página de credenciales
+[2026-01-29 17:34:37] [ERROR] Error al conectar a MySQL: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution | Context: {"host":"localhostlocalhost","username":"root"}
+[2026-01-29 17:34:37] [ERROR] Error al validar credenciales MySQL | Context: {"host":"localhostlocalhost","username":"root","error":"SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution"}
+[2026-01-29 17:34:37] [INFO] Acceso a página de credenciales
+[2026-01-29 17:35:04] [ERROR] Error al conectar a MySQL: SQLSTATE[HY000] [2002] No such file or directory | Context: {"host":"localhost","username":"root"}
+[2026-01-29 17:35:04] [ERROR] Error al validar credenciales MySQL | Context: {"host":"localhost","username":"root","error":"SQLSTATE[HY000] [2002] No such file or directory"}
+[2026-01-29 17:35:04] [INFO] Acceso a página de credenciales
+[2026-01-29 17:37:43] [ERROR] Error al conectar a MySQL: SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.18.0.5' (using password: NO) | Context: {"host":"database","username":"root"}
+[2026-01-29 17:37:43] [ERROR] Error al validar credenciales MySQL | Context: {"host":"database","username":"root","error":"SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.18.0.5' (using password: NO)"}
+[2026-01-29 17:37:43] [INFO] Acceso a página de credenciales
+[2026-01-29 17:38:07] [INFO] Acceso a página de bienvenida
+[2026-01-29 17:38:45] [INFO] Acceso a página de bienvenida
+[2026-01-29 17:39:00] [INFO] Acceso a página de credenciales
+[2026-01-29 17:39:23] [ERROR] Error al conectar a MySQL: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution | Context: {"host":"localhostdatabase","username":"root"}
+[2026-01-29 17:39:23] [ERROR] Error al validar credenciales MySQL | Context: {"host":"localhostdatabase","username":"root","error":"SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution"}
+[2026-01-29 17:39:23] [INFO] Acceso a página de credenciales
+[2026-01-29 17:42:54] [INFO] Acceso a página de bienvenida
+[2026-01-29 17:43:07] [INFO] Acceso a página de credenciales
+[2026-01-29 17:43:27] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:43:27] [INFO] Credenciales MySQL validadas exitosamente | Context: {"host":"database","username":"root"}
+[2026-01-29 17:43:27] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:43:27] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-01-29 17:43:27] [INFO] Credenciales validadas y guardadas en sesión | Context: {"host":"database","username":"root"}
+[2026-01-29 17:43:27] [INFO] Conexión a MySQL cerrada
+[2026-01-29 17:43:27] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:43:27] [INFO] Acceso a página de configuración de base de datos
+[2026-01-29 17:43:44] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:43:44] [INFO] Nombre de base de datos válido | Context: {"name":"test_install_final"}
+[2026-01-29 17:43:44] [INFO] Verificación de existencia de base de datos | Context: {"database":"test_install_final","exists":false}
+[2026-01-29 17:43:44] [INFO] La base de datos no existe, se puede crear | Context: {"name":"test_install_final"}
+[2026-01-29 17:43:44] [INFO] Nombre de base de datos validado | Context: {"name":"test_install_final"}
+[2026-01-29 17:43:44] [INFO] Archivo SQL de instalación válido | Context: {"path":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql"}
+[2026-01-29 17:43:44] [INFO] Acceso a página de resumen
+[2026-01-29 17:46:05] [INFO] Iniciando proceso de instalación
+[2026-01-29 17:46:05] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-01-29 17:46:05] [INFO] Base de datos creada exitosamente | Context: {"database":"test_install_final","charset":"utf8mb4","collation":"utf8mb4_unicode_ci"}
+[2026-01-29 17:46:05] [INFO] Archivo de configuración generado exitosamente | Context: {"path":"\/var\/www\/html\/instalador\/config\/database.php","size":882}
+[2026-01-29 17:46:05] [INFO] Conexión a MySQL cerrada
+[2026-01-29 17:46:05] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":"test_install_final"}
+[2026-01-29 17:46:05] [INFO] Iniciando ejecución de archivo SQL | Context: {"filepath":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql","queries_count":10}
+[2026-01-29 17:46:06] [INFO] Archivo SQL ejecutado exitosamente | Context: {"filepath":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql"}
+[2026-01-29 17:46:06] [INFO] Conexión a MySQL cerrada
+[2026-01-29 17:46:06] [INFO] Instalación completada exitosamente

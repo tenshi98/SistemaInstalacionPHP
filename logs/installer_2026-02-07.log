@@ -1,0 +1,9 @@
+[2026-02-07 11:00:25] [INFO] Acceso a página de credenciales
+[2026-02-07 12:27:40] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-07 12:27:40] [INFO] Credenciales MySQL validadas exitosamente | Context: {"host":"database","username":"root"}
+[2026-02-07 12:27:40] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-02-07 12:27:40] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-02-07 12:27:40] [INFO] Credenciales validadas y guardadas en sesión | Context: {"host":"database","username":"root"}
+[2026-02-07 12:27:40] [INFO] Conexión a MySQL cerrada
+[2026-02-07 12:27:40] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-07 12:27:40] [INFO] Acceso a página de configuración de base de datos

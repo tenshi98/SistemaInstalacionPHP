@@ -1,0 +1,21 @@
+[2026-02-09 09:06:29] [INFO] Acceso a página de credenciales
+[2026-02-09 17:29:08] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-09 17:29:08] [INFO] Credenciales MySQL validadas exitosamente | Context: {"host":"database","username":"root"}
+[2026-02-09 17:29:08] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-02-09 17:29:08] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-02-09 17:29:08] [INFO] Credenciales validadas y guardadas en sesión | Context: {"host":"database","username":"root"}
+[2026-02-09 17:29:08] [INFO] Conexión a MySQL cerrada
+[2026-02-09 17:29:08] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-09 17:29:08] [INFO] Acceso a página de configuración de base de datos
+[2026-02-09 17:29:15] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-09 17:29:15] [INFO] Nombre de base de datos válido | Context: {"name":"asd"}
+[2026-02-09 17:29:15] [INFO] Verificación de existencia de base de datos | Context: {"database":"asd","exists":false}
+[2026-02-09 17:29:15] [INFO] La base de datos no existe, se puede crear | Context: {"name":"asd"}
+[2026-02-09 17:29:15] [INFO] Nombre de base de datos validado | Context: {"name":"asd"}
+[2026-02-09 17:29:15] [INFO] Archivo SQL de instalación válido | Context: {"path":"\/var\/www\/html\/instalador\/config\/..\/sql\/install.sql"}
+[2026-02-09 17:29:15] [INFO] Acceso a página de resumen
+[2026-02-09 17:51:27] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-09 17:51:27] [INFO] Acceso a página de configuración de base de datos
+[2026-02-09 17:51:30] [INFO] Acceso a página de credenciales
+[2026-02-09 17:54:13] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-09 17:54:13] [INFO] Acceso a página de configuración de base de datos

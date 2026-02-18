@@ -1,0 +1,19 @@
+[2026-02-06 08:04:34] [INFO] Acceso a página de bienvenida
+[2026-02-06 18:43:06] [INFO] Acceso a página de bienvenida
+[2026-02-06 18:43:13] [INFO] Acceso a página de bienvenida
+[2026-02-06 18:43:16] [INFO] Acceso a página de bienvenida
+[2026-02-06 18:43:21] [INFO] Acceso a página de bienvenida
+[2026-02-06 18:43:41] [INFO] Acceso a página de bienvenida
+[2026-02-06 18:43:45] [INFO] Acceso a página de credenciales
+[2026-02-06 18:49:10] [ERROR] Error al conectar a MySQL: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution | Context: {"host":"asd","username":"asd"}
+[2026-02-06 18:49:10] [ERROR] Error al validar credenciales MySQL | Context: {"host":"asd","username":"asd","error":"SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution"}
+[2026-02-06 18:49:10] [INFO] Acceso a página de credenciales
+[2026-02-06 18:49:45] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-06 18:49:45] [INFO] Credenciales MySQL validadas exitosamente | Context: {"host":"database","username":"root"}
+[2026-02-06 18:49:45] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-02-06 18:49:45] [INFO] Usuario tiene permisos de creación de bases de datos
+[2026-02-06 18:49:45] [INFO] Credenciales validadas y guardadas en sesión | Context: {"host":"database","username":"root"}
+[2026-02-06 18:49:45] [INFO] Conexión a MySQL cerrada
+[2026-02-06 18:49:45] [INFO] Conexión a MySQL establecida exitosamente | Context: {"host":"database","database":""}
+[2026-02-06 18:49:45] [INFO] Acceso a página de configuración de base de datos
+[2026-02-06 18:50:15] [INFO] Acceso a página de credenciales
